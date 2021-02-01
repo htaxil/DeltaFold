@@ -9,7 +9,7 @@ Elle a été conçue pour être facile à ranger, à transporter, à mettre en o
 - Sa mise en oeuvre ne prends pas plus de deux minutes
 - La plupart des pièces d’assemblage sont imprimées en 3D, ce qui la rend auto-reproductible.
 - L'électronique s’appuie sur des solutions OpenSource robustes, largement répandues et dont la modularité garantie un haut degré de maintenabilité.
-- déployée elle offre un volume d’impression digne des plus grandes.
+- Déployée elle offre un volume d’impression digne des plus grandes.
 
 
 Dimensions de la DelaFold dans sa v3:
