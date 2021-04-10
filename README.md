@@ -17,4 +17,4 @@ Dimensions de la DelaFold dans sa v3:
 - Hauteur hors tout : 730mm
 - Imprimante ouverte, le chassie fait 373mm de diamètre
 - Fermée, il ne fait plus que 180mm de diamètre
-- Volume d'impression : 220mm de diamètre sur une hauteur de 220mm
+- Volume d'impression : 220mm de diamètre sur une hauteur de 290mm
